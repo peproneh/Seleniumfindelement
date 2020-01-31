@@ -1,0 +1,11 @@
+url:     C:\pycharm\Seleniumfindelement\page.html
+id:      Clear_id
+name:    username
+content: p.content
+xPath:   /html/body/form[1]
+
+
+
+
+
+

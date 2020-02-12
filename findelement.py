@@ -1,8 +1,8 @@
 from selenium import webdriver
 
-f = open("locators.txt", "r", encoding=('utf-8'))
+f = open("resourses/locators.txt", "r", encoding=('utf-8'))
 url = f.readline()[9:]
-driver = webdriver.Chrome('C:\Peproneh Autmation tools\Selenium\chromedriver_win32\chromedriver.exe')
+driver = webdriver.Chrome('resourses/chromedriver.exe')
 driver.get(url)
 
 id_selector = str(f.readline())[9:-1]

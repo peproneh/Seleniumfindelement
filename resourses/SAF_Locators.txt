@@ -1,0 +1,5 @@
+url :   https://www.amazon.com/
+search_box_id: twotabsearchtextbox
+result_list_class : a-size-medium
+search:  canon  EOS      5d       mark iv
+
